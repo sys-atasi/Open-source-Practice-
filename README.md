@@ -79,7 +79,7 @@ You can ask questions by raising an [issue](https://github.com/GSSoC24/being-an-
 ![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/55059bd9-05f0-4f36-9205-9eb926831a19)
 
 - Your username would make a good branch because it's unique.  
-![image](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/8eee07c1-120b-4022-8677-932b4dbe89d5)
+![atasimaji](https://github.com/GSSoC24/being-an-GSSoc24/assets/166531702/8eee07c1-120b-4022-8677-932b4dbe89d5)
 
 ```bash
   git checkout -b <name-of-new-branch>
